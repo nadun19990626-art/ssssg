@@ -1,0 +1,1 @@
+Add your photos as photo1.jpg, photo2.jpg, photo3.jpg into images/ and your song as music/love.mp3
